@@ -6,6 +6,6 @@
 
 ```java
 dependencies {
- compile 'com.zhy:flowlayout-lib:1.0.3'
+ compile 'io.github.mayubao:commontools:1.0.0'
 }
 ```
